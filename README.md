@@ -6,7 +6,14 @@
 
 ## 子模块
 
-- `data/profile`：档案（quanttide-profile-of-consulting-management）
+| 路径 | 仓库 | 说明 |
+|---|---|---|
+| `data/journal` | [quanttide-journal-of-consulting-management](https://github.com/quanttide/quanttide-journal-of-consulting-management) | 咨询管理日志 |
+| `data/profile` | [quanttide-profile-of-consulting-management](https://github.com/quanttide/quanttide-profile-of-consulting-management) | 咨询管理档案 |
+| `data/intention` | [quanttide-intention-of-consulting-management](https://github.com/quanttide/quanttide-intention-of-consulting-management) | 咨询管理意图 |
+| `data/insight` | [quanttide-insight-of-consulting-management](https://github.com/quanttide/quanttide-insight-of-consulting-management) | 咨询管理洞察 |
+| `data/roadmap` | [quanttide-roadmap-of-consulting-management](https://github.com/quanttide/quanttide-roadmap-of-consulting-management) | 咨询管理路线图 |
+| `data/brochure` | [quanttide-brochure-of-consulting-management](https://github.com/quanttide/quanttide-brochure-of-consulting-management) | 咨询管理宣传册 |
 
 ## 许可
 
