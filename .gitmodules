@@ -1,0 +1,3 @@
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-consulting-management.git
